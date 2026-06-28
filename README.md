@@ -17,3 +17,10 @@ Model Deployment.
 It should be noted that these phases are usually recurrent in nature (i.e., some phases may be repeated). As such, they do not necessarily follow a linear progression
 
 ### Tools & Technologies
+The tools of use for this project include:
+Pandas
+NumPy
+Matplotlib & Seaborn
+
+### Project Implementation via CRISP-DM
+1. Business Understanding
